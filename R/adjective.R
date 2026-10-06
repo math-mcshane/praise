@@ -35,6 +35,7 @@ adjective <- c(
   "dynamite",
   "elegant",
   "epic",
+  "excelente",
   "excellent",
   "exclusive",
   "exceptional",
@@ -159,5 +160,6 @@ adjective <- c(
   "wise",
   "wonderful",
   "wondrous",
-  "world-class"
+  "world-class",
+  "wunderbar"
 )
